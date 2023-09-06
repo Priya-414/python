@@ -7,7 +7,7 @@
 #print(TEMPLATE_DIR)
 
 
-from faker import Faker
+from faker import Fakerrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 fake=Faker()
 print('Name:',fake.name())
 
